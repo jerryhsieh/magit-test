@@ -3,3 +3,5 @@ This is a test file.
 this is second line, maybe this one is better.
 
 this is the third one
+
+this one should be commited.
